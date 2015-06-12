@@ -27,9 +27,10 @@
       --> crawler.py
 
 <h3>Dependencies</h3>
-    1. Amara 
+    1. Python Version 2.7
+    2. Amara 
         pip install amara
-    2. pip install requests[security]    (Optional)
+    3. pip install requests[security]    (Optional)
   
 <h3>Bugs</h3>
     Please report bugs to the github issue tracker.
